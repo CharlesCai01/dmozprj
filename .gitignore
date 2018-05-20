@@ -1,0 +1,6 @@
+/img/
+/.settings/
+*.csv
+*.pyc
+*.json
+*.jl
